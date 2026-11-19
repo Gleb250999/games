@@ -1,0 +1,9 @@
+{
+  "name": "koenigsegg_jesko",
+  "ids": [],
+  "auth": {
+    "salt": "/30iyM06bI16ISpTF/JXFQ==",
+    "iter": 150000,
+    "hash": "gwHWNnKUCZjgs5GJ700x/7C837wQy1FTE0/CxOdjCpk="
+  }
+}
