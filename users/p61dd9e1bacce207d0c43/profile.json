@@ -1,9 +1,0 @@
-{
-  "name": "tutu",
-  "ids": [],
-  "auth": {
-    "salt": "CjVOrzVrhoJ1Fn+JCnoWOg==",
-    "iter": 150000,
-    "hash": "j6s9mQbEc3Dfzbyz/0XUt7JG/iMxsMOEoy3UeBiIu6s="
-  }
-}
