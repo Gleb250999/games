@@ -1,0 +1,9 @@
+{
+  "name": "irina",
+  "ids": [],
+  "auth": {
+    "salt": "VYAk9APRSHQBWFiumLdG+A==",
+    "iter": 150000,
+    "hash": "S9eequ0z+UTtlIavV/Ln83t/xIAu6vFzF47tCphmcEo="
+  }
+}
