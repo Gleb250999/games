@@ -1,0 +1,9 @@
+{
+  "name": "мемы",
+  "ids": [],
+  "auth": {
+    "salt": "Harc6PAfuwScxBV751sLFw==",
+    "iter": 150000,
+    "hash": "95e+jJ0VDquDI/WLLw9NCZcL2Hs48OSFZV/Xc/Z2NI8="
+  }
+}
