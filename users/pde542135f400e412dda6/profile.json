@@ -1,9 +1,0 @@
-{
-  "name": "tete",
-  "ids": [],
-  "auth": {
-    "salt": "MDpR/IgWvXjDqfr+24gTKQ==",
-    "iter": 150000,
-    "hash": "0ES1LJ/OAZKMQD4xQW4AI2OKTRFFk2heljFKQliTErQ="
-  }
-}
