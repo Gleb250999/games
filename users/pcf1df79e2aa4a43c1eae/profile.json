@@ -1,9 +1,0 @@
-{
-  "name": "test55",
-  "ids": [],
-  "auth": {
-    "salt": "E5DgkeMdr4A02dIGIPlgwA==",
-    "iter": 150000,
-    "hash": "DyDBreNKr41wEAqKtgmDZeoRwpSuHer9qYMXw+UQ+jc="
-  }
-}
