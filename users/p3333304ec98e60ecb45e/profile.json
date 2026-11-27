@@ -1,0 +1,9 @@
+{
+  "name": "ttt",
+  "ids": [],
+  "auth": {
+    "salt": "I1WkrLzZ+x6KdMMTsQ0fEQ==",
+    "iter": 150000,
+    "hash": "j3rc0szoyrFDjClZp04BMv6qIwNDSxnt9TUXeujrl34="
+  }
+}
